@@ -8,6 +8,6 @@ A user needs to enter the check amount and aswell as the tip amount, The amount 
 
 Open to any feedback.
 
-- Steps to run the project -
+- Steps to run the project
 
 Clone the code clean and run :)
